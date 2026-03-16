@@ -1,8 +1,4 @@
-# Description:
-A personality-based stock recommendation engine that bridges psychometrics with financial data. This application analyzes user personality traits via a condensed Likert survey to recommend stocks, providing financial data, recent news, and an interactive AI agent for a more personalized experience.
 
-# Topics:
-something like python streamlit llms tavily yfinance finnhub langchain plotly pandas
 
 # Data Analysis of Investment
 
