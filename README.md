@@ -44,8 +44,8 @@ While the interface is simple, the backend uses a rigorous data reduction pipeli
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/leonardo-schneider/Final-Programming.git
-    cd Final-Programming
+    git clone https://github.com/leonardo-schneider/Factor-9.git
+    cd Factor-9
     ```
 
 2.  **Install dependencies:**
